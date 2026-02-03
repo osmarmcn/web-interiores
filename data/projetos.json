@@ -1,0 +1,302 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "slug": "residencia-moderna",
+      "titulo": "Residência Moderna",
+      "subtitulo": "Um espaço minimalista e acolhedor com toques de elegância atemporal",
+      "categoria": "Residencial",
+      "imagemCapa": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=1920&q=80",
+      "imagemThumb": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&h=600&fit=crop",
+      "ano": "2024",
+      "area": "180m²",
+      "localizacao": "São Paulo, SP",
+      "cliente": "Família Santos",
+      "duracao": "6 meses",
+      "dataInicio": "2024-01-15",
+      "dataTermino": "2024-07-15",
+      "servicos": "Projeto Completo, Acompanhamento de Obra, Decoração",
+      "descricao": [
+        "A Residência Moderna é um projeto que exemplifica perfeitamente a união entre minimalismo e aconchego. Localizada em um bairro nobre de São Paulo, esta casa foi completamente reformulada para atender às necessidades de uma família jovem que valoriza espaços integrados e funcionais.",
+        "O conceito principal do projeto foi criar ambientes fluidos, onde a luz natural pudesse circular livremente, proporcionando sensação de amplitude e conexão com o exterior. Utilizamos uma paleta de cores neutras, com predominância de tons de branco, bege e cinza, pontuada por elementos em madeira natural que trazem calor e textura aos espaços.",
+        "Cada ambiente foi cuidadosamente planejado para otimizar a funcionalidade sem comprometer a estética. Móveis de design contemporâneo foram selecionados para complementar a arquitetura clean da residência, enquanto peças de arte cuidadosamente escolhidas adicionam personalidade e sofisticação.",
+        "O resultado é uma casa que respira elegância atemporal, onde cada detalhe foi pensado para proporcionar conforto e bem-estar aos seus moradores, criando um verdadeiro refúgio urbano contemporâneo."
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Planta Aberta",
+          "descricao": "Integração entre sala, jantar e cozinha criando amplitude e fluidez",
+          "icone": "layout"
+        },
+        {
+          "titulo": "Iluminação Natural",
+          "descricao": "Grandes janelas e layout estratégico maximizam entrada de luz",
+          "icone": "light"
+        },
+        {
+          "titulo": "Materiais Nobres",
+          "descricao": "Mármore, madeira natural e metais escovados em acabamentos premium",
+          "icone": "premium"
+        },
+        {
+          "titulo": "Armazenamento Inteligente",
+          "descricao": "Soluções sob medida que otimizam espaço sem comprometer estética",
+          "icone": "storage"
+        }
+      ],
+      "desafio": "O principal desafio deste projeto foi transformar uma planta compartimentada e escura em um espaço moderno, integrado e cheio de luz natural. A casa original tinha diversos corredores e paredes que bloqueavam a circulação e impediam a entrada de luz. Além disso, era necessário criar áreas de armazenamento suficientes para uma família sem comprometer a estética minimalista desejada pelos clientes.",
+      "solucao": "Redesenhamos completamente o layout, removendo paredes não estruturais e criando uma planta aberta que integra sala, jantar e cozinha. Ampliamos as aberturas existentes e criamos novas janelas para maximizar a entrada de luz. Desenvolvemos móveis planejados sob medida com design clean que escondem vastos espaços de armazenamento, mantendo a aparência minimalista e organizada dos ambientes.",
+      "galeria": [
+        {
+          "url": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&q=80",
+          "alt": "Sala de estar integrada",
+          "destaque": true
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80",
+          "alt": "Detalhe da decoração"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "alt": "Sala de jantar"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+          "alt": "Cozinha moderna"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80",
+          "alt": "Quarto master"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80",
+          "alt": "Banheiro suite",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "apartamento-sofisticado",
+      "titulo": "Apartamento Sofisticado",
+      "subtitulo": "Luxo e conforto em cada detalhe, perfeito para a vida contemporânea",
+      "categoria": "Residencial",
+      "imagemCapa": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1920&q=80",
+      "imagemThumb": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "ano": "2023",
+      "area": "120m²",
+      "localizacao": "Rio de Janeiro, RJ",
+      "cliente": "Dra. Ana Beatriz",
+      "duracao": "4 meses",
+      "dataInicio": "2023-08-01",
+      "dataTermino": "2023-12-01",
+      "servicos": "Consultoria, Projeto Completo, Decoração",
+      "descricao": [
+        "O Apartamento Sofisticado representa a essência do luxo contemporâneo em um espaço compacto. Localizado em um edifício moderno no coração do Rio de Janeiro, este projeto desafiou os limites do design de interiores ao criar ambientes amplos e elegantes em apenas 120m².",
+        "O conceito central foi explorar a verticalidade e criar ilusões de amplitude através de espelhos estrategicamente posicionados, paleta de cores claras e móveis multifuncionais de design italiano. Cada centímetro foi otimizado sem sacrificar o conforto ou a sofisticação.",
+        "A curadoria de arte contemporânea brasileira adiciona personalidade aos espaços, enquanto a iluminação cênica em várias camadas cria diferentes atmosferas ao longo do dia. Materiais premium como mármore Calacatta, madeira de nogueira e metais dourados elevam a sensação de luxo.",
+        "O resultado é um apartamento que prova que sofisticação e funcionalidade podem coexistir harmoniosamente, criando um lar urbano perfeito para o estilo de vida contemporâneo."
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Design Italiano",
+          "descricao": "Móveis multifuncionais de designers renomados",
+          "icone": "design"
+        },
+        {
+          "titulo": "Iluminação Cênica",
+          "descricao": "Camadas de luz que transformam o ambiente",
+          "icone": "light"
+        },
+        {
+          "titulo": "Arte Brasileira",
+          "descricao": "Curadoria especial de arte contemporânea",
+          "icone": "art"
+        },
+        {
+          "titulo": "Materiais Premium",
+          "descricao": "Mármore Calacatta e metais nobres",
+          "icone": "premium"
+        }
+      ],
+      "desafio": "Criar um ambiente luxuoso e funcional em apenas 120m², sem que o apartamento parecesse apertado ou desorganizado. O desafio era equilibrar a necessidade de armazenamento com o desejo de manter espaços amplos e respiráveis.",
+      "solucao": "Utilizamos espelhos estratégicos para ampliar visualmente os espaços, móveis multifuncionais que servem a múltiplos propósitos, e uma paleta de cores clara que reflete luz. Cada móvel foi escolhido não apenas pela beleza, mas pela capacidade de otimizar espaço sem comprometer o luxo.",
+      "galeria": [
+        {
+          "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+          "alt": "Living sofisticado",
+          "destaque": true
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600607687644-aabcf57421ba?w=800&q=80",
+          "alt": "Detalhes em dourado"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800&q=80",
+          "alt": "Sala de jantar integrada"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566753151-384129cf4e3e?w=800&q=80",
+          "alt": "Cozinha gourmet"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "alt": "Suite master"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=800&q=80",
+          "alt": "Home office elegante"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "loft-industrial",
+      "titulo": "Loft Industrial",
+      "subtitulo": "Fusão perfeita entre o industrial e o refinado em um espaço único",
+      "categoria": "Residencial",
+      "imagemCapa": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1920&q=80",
+      "imagemThumb": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "ano": "2024",
+      "area": "200m²",
+      "localizacao": "Porto Alegre, RS",
+      "cliente": "Rafael Oliveira",
+      "duracao": "5 meses",
+      "dataInicio": "2024-03-01",
+      "dataTermino": "2024-08-01",
+      "servicos": "Projeto Completo, Design de Mobiliário, Acompanhamento",
+      "descricao": [
+        "O Loft Industrial é uma celebração da arquitetura bruta combinada com elementos de design refinado. Localizado em um antigo galpão industrial em Porto Alegre, este projeto transformou um espaço abandonado em uma residência moderna e cheia de personalidade.",
+        "Mantivemos elementos estruturais originais como vigas de concreto aparente, tijolos expostos e tubulações à vista, contrastando-os com móveis de design contemporâneo, iluminação sofisticada e acabamentos em couro e metais escovados.",
+        "O pé-direito duplo foi explorado ao máximo com um mezanino que abriga a área íntima, enquanto o térreo concentra os espaços sociais integrados. Grandes janelas industriais foram restauradas, trazendo luz natural abundante e vista para a cidade.",
+        "Este projeto demonstra como é possível honrar a história de um espaço enquanto se cria um lar totalmente funcional e esteticamente impactante para a vida moderna."
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Pé-Direito Duplo",
+          "descricao": "Amplitude vertical com mezanino funcional",
+          "icone": "height"
+        },
+        {
+          "titulo": "Elementos Originais",
+          "descricao": "Preservação de vigas, tijolos e estruturas históricas",
+          "icone": "heritage"
+        },
+        {
+          "titulo": "Design Autoral",
+          "descricao": "Mobiliário exclusivo desenvolvido para o projeto",
+          "icone": "custom"
+        },
+        {
+          "titulo": "Iluminação Industrial",
+          "descricao": "Pendentes e trilhos que destacam a arquitetura",
+          "icone": "light"
+        }
+      ],
+      "desafio": "Transformar um galpão industrial abandonado em uma residência confortável, mantendo o charme industrial mas incorporando todo o conforto moderno necessário para a habitação.",
+      "solucao": "Preservamos os elementos arquitetônicos originais que contam a história do espaço, mas introduzimos isolamento térmico e acústico invisível, sistemas modernos de climatização, e criamos áreas íntimas com divisórias de vidro que não comprometem a sensação de amplitude.",
+      "galeria": [
+        {
+          "url": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&q=80",
+          "alt": "Vista geral do loft",
+          "destaque": true
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "alt": "Tijolos aparentes"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80",
+          "alt": "Mezanino e área social"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+          "alt": "Cozinha industrial"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&q=80",
+          "alt": "Escada de ferro"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80",
+          "alt": "Home theater"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "casa-de-campo",
+      "titulo": "Casa de Campo",
+      "subtitulo": "Harmonia com a natureza em um refúgio sereno e elegante",
+      "categoria": "Residencial",
+      "imagemCapa": "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1920&q=80",
+      "imagemThumb": "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800&h=600&fit=crop",
+      "ano": "2023",
+      "area": "250m²",
+      "localizacao": "Campos do Jordão, SP",
+      "cliente": "Família Almeida",
+      "duracao": "8 meses",
+      "dataInicio": "2023-02-01",
+      "dataTermino": "2023-10-01",
+      "servicos": "Projeto Completo, Paisagismo, Acompanhamento de Obra",
+      "descricao": [
+        "A Casa de Campo é um projeto que celebra a conexão com a natureza sem abrir mão do conforto e sofisticação. Situada nas montanhas de Campos do Jordão, esta residência foi projetada para ser um verdadeiro refúgio da agitação urbana.",
+        "Utilizamos materiais naturais locais como pedra e madeira de reflorestamento, integrando a construção harmoniosamente com a paisagem. Grandes janelas de vidro emolduram vistas espetaculares das montanhas, criando uma sensação de estar imerso na natureza.",
+        "O interior combina rusticidade contemporânea com toques de luxo discreto. Lareiras em pedra, móveis em madeira maciça e texturas naturais criam ambientes acolhedores, enquanto a tecnologia moderna garante todo o conforto necessário.",
+        "Este projeto demonstra que é possível criar um espaço luxuoso e confortável que respeita e celebra o ambiente natural ao seu redor, oferecendo um verdadeiro santuário de paz e beleza."
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Integração com Natureza",
+          "descricao": "Grandes janelas e terraços que conectam interior e exterior",
+          "icone": "nature"
+        },
+        {
+          "titulo": "Materiais Locais",
+          "descricao": "Pedra e madeira de reflorestamento da região",
+          "icone": "sustainable"
+        },
+        {
+          "titulo": "Conforto Térmico",
+          "descricao": "Lareiras, piso aquecido e isolamento premium",
+          "icone": "comfort"
+        },
+        {
+          "titulo": "Paisagismo Integrado",
+          "descricao": "Jardins que complementam a vegetação nativa",
+          "icone": "garden"
+        }
+      ],
+      "desafio": "Criar uma casa de campo luxuosa que se integrasse perfeitamente ao ambiente natural montanhoso, respeitando o terreno acidentado e a vegetação nativa, enquanto proporcionava todo o conforto moderno.",
+      "solucao": "Desenvolvemos o projeto em níveis que acompanham a topografia natural do terreno, minimizando movimentação de terra. Utilizamos materiais locais e técnicas de construção sustentável. O paisagismo foi projetado para complementar (não competir) com a vegetação nativa.",
+      "galeria": [
+        {
+          "url": "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800&q=80",
+          "alt": "Fachada e natureza",
+          "destaque": true
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80",
+          "alt": "Sala com lareira"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80",
+          "alt": "Varanda com vista"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "alt": "Cozinha rústica"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&q=80",
+          "alt": "Suite com vista panorâmica"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80",
+          "alt": "Jardim integrado",
+          "destaque": true
+        }
+      ]
+    }
+  ]
+}

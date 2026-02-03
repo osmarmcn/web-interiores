@@ -1,0 +1,134 @@
+/* ===================================
+   TESTIMONIALS SECTION CSS
+   =================================== */
+
+.testimonials {
+    background-color: var(--color-bg-white);
+}
+
+.testimonials-slider {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 var(--spacing-md);
+}
+
+.testimonial-track {
+    position: relative;
+    overflow: hidden;
+}
+
+.testimonial-item {
+    display: none;
+    text-align: center;
+    padding: var(--spacing-lg) var(--spacing-md);
+    animation: fadeIn 0.6s var(--transition-ease);
+}
+
+.testimonial-item.active {
+    display: block;
+}
+
+.testimonial-text {
+    font-size: 1.25rem;
+    font-style: italic;
+    line-height: 1.8;
+    color: var(--color-text-medium);
+    margin-bottom: var(--spacing-lg);
+    position: relative;
+}
+
+.testimonial-text::before {
+    content: '"';
+    font-family: var(--font-heading);
+    font-size: 4rem;
+    color: var(--color-primary);
+    opacity: 0.3;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+
+.testimonial-author {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.testimonial-author img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--color-primary);
+}
+
+.testimonial-author h4 {
+    font-size: 1.125rem;
+    margin-bottom: 0.25rem;
+    color: var(--color-text-dark);
+}
+
+.testimonial-author p {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    margin: 0;
+}
+
+/* Controls */
+.testimonials-controls {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: var(--spacing-md);
+}
+
+.testimonial-btn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid var(--color-primary);
+    background-color: transparent;
+    color: var(--color-primary);
+    font-size: 1.5rem;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-speed) var(--transition-ease);
+}
+
+.testimonial-btn:hover {
+    background-color: var(--color-primary);
+    color: var(--color-bg-white);
+    transform: scale(1.1);
+}
+
+.testimonial-btn:active {
+    transform: scale(0.95);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .testimonial-text {
+        font-size: 1rem;
+    }
+    
+    .testimonial-text::before {
+        font-size: 3rem;
+        top: -10px;
+        left: -10px;
+    }
+    
+    .testimonial-author {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .testimonial-btn {
+        width: 45px;
+        height: 45px;
+        font-size: 1.25rem;
+    }
+}
